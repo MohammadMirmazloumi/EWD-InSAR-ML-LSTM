@@ -27,3 +27,6 @@ Key steps:
 - Data Preprocessing: Time series data is transformed to fit the model.
 - Model Training: The LSTM model is trained on historical InSAR data to predict future ground movements.
 - Prediction and Evaluation: Multistep predictions are generated, and the results are analyzed to identify regions with potential instability.
+
+To Cite: Mirmazloumi, S., Wassie, Y., Nava, L. et al. InSAR time series and LSTM model to support early warning detection tools of ground instabilities: mining site case studies. Bull Eng Geol Environ 82, 374 (2023). https://doi.org/10.1007/s10064-023-03388-w
+Link to the paper: https://rdcu.be/dRzLC
